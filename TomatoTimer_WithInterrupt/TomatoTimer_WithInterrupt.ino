@@ -1,8 +1,8 @@
 #define SESSION_TIME_PIN A3
 #define BREAK_TIME_PIN A4
 #define NUM_SESSIONS_PIN A5
-#define START_BUTTON_PIN A2
-#define PIEZO_PIN 2
+#define START_BUTTON_PIN 2
+#define PIEZO_PIN 13
 
 int SESSION_LEDS[] = {5, 6, 9, 10}; 
 int BREAK_LEDS[] = {4, 7, 8, 12};
